@@ -92,4 +92,3 @@ Example structure (may vary slightly):
 ├── Cancer_Bioinformatics_Unique.ipynb
 ├── README.md
 ├── AI_USAGE.md
-└── (optional) figures/             # Saved plots (ROC, PR, PCA, etc.)
